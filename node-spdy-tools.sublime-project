@@ -1,0 +1,710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for: for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/razor/Documents/dev/node-spdy-tools/package.json",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/razor/Documents/dev/node-spdy-tools/lib/spdy-tools.js",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/razor/Documents/dev/node-spdy/lib/spdy/frame.js",
+			"settings":
+			{
+				"buffer_size": 1886,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 50,
+		"selected_items":
+		[
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"for	",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"move",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"anonyf	",
+				"Snippet: Anonymous Function"
+			],
+			[
+				"anony",
+				"Snippet: Anonymous Function"
+			]
+		],
+		"width": 432
+	},
+	"console":
+	{
+		"height": 129
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/razor/Documents/dev/node-spdy-tools/lib/index.js",
+		"/home/razor/Documents/dev/node-spdy/package.json",
+		"/home/razor/Documents/dev/node-spdy-tools/.gitignore",
+		"/home/razor/Documents/dev/oraldesign/appengine/templates/index.html",
+		"/home/razor/Documents/dev/oraldesign/appengine/static/css/style.css",
+		"/home/razor/Documents/dev/oraldesign/appengine/app.yaml",
+		"/home/razor/Documents/dev/dinetou/website/app.js",
+		"/home/razor/Documents/dev/express-auth/test/app.js",
+		"/home/razor/Documents/dev/dinetou/website/db.js",
+		"/home/razor/Documents/dev/express-auth/lib/express-auth/default-user-schema.js",
+		"/home/razor/Documents/dev/express-auth/lib/express-auth/connectors/mongoose.js",
+		"/home/razor/Documents/dev/express-auth/lib/express-auth/middleware.js",
+		"/home/razor/Documents/dev/express-auth/index.js",
+		"/home/razor/Documents/dev/express-auth/lib/express-auth/index.js",
+		"/home/razor/Documents/dev/express-auth/LICENSE",
+		"/home/razor/Documents/dev/express-users/lib/index.js",
+		"/home/razor/Documents/dev/express-users/README",
+		"/home/razor/Documents/dev/express-users/index.js",
+		"/home/razor/Documents/dev/express-users/lib/connectors/mongoose.js",
+		"/home/razor/Documents/dev/dinetou/website/dust-helpers.js",
+		"/home/razor/Documents/dev/dinetou/website/models/Event.js",
+		"/home/razor/Documents/dev/dinetou/website/public/css/style.css",
+		"/home/razor/Documents/dev/dinetou/website/views/api/person.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/events.dust",
+		"/home/razor/Documents/dev/dinetou/website/views/root.js",
+		"/home/razor/Documents/dev/dinetou/website/views/api/event.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/newevent-1.dust",
+		"/home/razor/Documents/dev/dinetou/website/public/js/pages/newevent.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/persons.dust",
+		"/home/razor/Documents/dev/dinetou/website/views/events.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/basic.dust",
+		"/home/razor/Documents/dev/dinetou/website/express-nun.js",
+		"/home/razor/Documents/dev/dinetou/website/views/index.js",
+		"/home/razor/Documents/dev/dinetou/website/urls.js",
+		"/home/razor/Documents/dev/dinetou/website/views/persons.js",
+		"/home/razor/Documents/dev/dinetou/website/public/js/pages/newperson.js",
+		"/home/razor/Documents/dev/dinetou/website/views/browse_persons.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/newperson.dust",
+		"/home/razor/Documents/dev/dinetou/website/models/Person.js",
+		"/home/razor/Documents/dev/dinetou/website/models/Image.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/newevent.dust",
+		"/home/razor/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/razor/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/razor/.config/sublime-text-2/Packages/User/jslint.sublime-build",
+		"/home/razor/Documents/dev/dinetou/website/templates/events.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/whole-white.dust",
+		"/home/razor/Documents/dev/dinetou/website/templates/index.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/with-sidebar.nun",
+		"/home/razor/Documents/dev/dinetou/website/node_modules/express-dust/lib/dust.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/index.dust",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/with-sidebar.dust",
+		"/home/razor/Documents/dev/dinetou/website/templates/koko.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/fafa.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/basic.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/with-sidebar.nun",
+		"/home/razor/Documents/dev/dinetou/website/templates/index.ejs",
+		"/home/razor/Documents/dev/dinetou/website/views/index.ejs",
+		"/home/razor/Documents/dev/dinetou/website/templates/layouts/whole.dust",
+		"/home/razor/Documents/dev/dinetou/website/public/js/pages/events.js",
+		"/home/razor/Documents/dev/dinetou/website/views/api/index.js",
+		"/home/razor/Documents/dev/dinetou/website/views/event.js",
+		"/home/razor/Documents/dev/dinetou/website/public/css/grid.css",
+		"/home/razor/.cache/.fr-FhNpia/nightly-53d0fbce5abb7ce395412063388f8feb1311794620/jquery.qtip.min.js",
+		"/home/razor/.cache/.fr-go9zL8/nightly-53d0fbce5abb7ce395412063388f8feb1311794620/jquery.qtip.pack.js",
+		"/home/razor/Documents/dev/dinetou/website/public/js/script.js",
+		"/home/razor/Documents/dev/dinetou/website/helpers.js",
+		"/home/razor/Documents/dev/dinetou/website/templates/newpost.dust",
+		"/home/razor/Desktop/meetup.css",
+		"/home/razor/Documents/dev/dinetou/website/public/js/pages/persons.js",
+		"/home/razor/Documents/dev/dinetou/website/views/person.js",
+		"/home/razor/Documents/dev/dinetou/website/views/layouts/main.dust",
+		"/home/razor/.cache/.fr-sDbrj5/jpsilvashy-fluid-grid-system-a0e2fc411773c2362c28733d1664fd7d7323ed76/stylesheets/fluid.gs.css",
+		"/home/razor/Documents/dev/dinetou/website/views/post.js",
+		"/home/razor/Documents/dev/dinetou/website/public/js/ckeditor/config.js",
+		"/home/razor/.cache/.fr-1iaYId/ckeditor-for-wordpress/plugins/wpmore/plugin.js",
+		"/home/razor/.cache/.fr-1XMXRT/ckeditor-for-wordpress/ckeditor.config.js",
+		"/home/razor/.cache/.fr-zzIqra/ckeditor-for-wordpress/ckeditor.config.js",
+		"/home/razor/.cache/.fr-NbCFep/ckeditor-for-wordpress/ckeditor/config.js",
+		"/home/razor/Documents/dev/eurasia-fashion/appengine/static/js/ckeditor/config.js",
+		"/home/razor/Documents/dev/dinetou/website/public/js/ckeditor/ckeditor.pack",
+		"/home/razor/Documents/dev/dinetou/website/public/js/ckeditor/plugins/wpmore/plugin.js",
+		"/home/razor/Documents/dev/dinetou/website/models/Post.js",
+		"/home/razor/Documents/dev/eurasia-fashion/appengine/templates/admin_new_article.html",
+		"/home/razor/Documents/dev/eurasia-fashion/appengine/static/js/fashion.js",
+		"/home/razor/Documents/dev/dinetou/website/views/webapi.js",
+		"/home/razor/Documents/dev/dinetou/website/views/webapis.js",
+		"/home/razor/Documents/dev/dinetou/website/apps/posts/views.js",
+		"/home/razor/Documents/dev/dinetou/website/apps/posts/urls.js",
+		"/home/razor/.config/sublime-text-2/Packages/HTML/HTML.tmLanguage",
+		"/home/razor/.config/sublime-text-2/Packages/HTML/html.sublime-snippet",
+		"/home/razor/Documents/dev/dinetou/website/n.js",
+		"/home/razor/Documents/dev/dinetou/website/apps/posts/models/Post.js",
+		"/home/razor/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/razor/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/razor/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/razor/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/razor/Documents/dev/dinetou/website/apps/posts/index.js",
+		"/home/razor/Documents/dev/dinetou/website/apps/urls.js",
+		"/home/razor/Documents/dev/dinetou/website/models/WorkPosition.js",
+		"/home/razor/Documents/dev/dinetou/website/dinetou.sublime-project",
+		"/home/razor/.config/sublime-text-2/Packages/JavaScript/JavaScript.sublime-settings",
+		"/home/razor/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+		"/home/razor/Documents/dev/dinetou/website/.gitignore",
+		"/home/razor/Documents/dev/dinetou/models/Person.js",
+		"/home/razor/Documents/dev/dinetou/app.js",
+		"/home/razor/Desktop/temp/Sublime Text 2/test.js"
+	],
+	"find":
+	{
+		"height": 33
+	},
+	"find_in_files":
+	{
+		"height": 0,
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"buffer.",
+			"color: ",
+			"type",
+			"console",
+			"tmp_file",
+			"var",
+			"var Person = require('models/Person'),\nvar Image = require('models/Image'),\nvar fs = require('fs'),\nvar util = require('util'),\nvar Canvas = require('canvas'),\n  , canvas = new Canvas(200,200)\n  , ctx = canvas.getContext('2d');\n",
+			"var",
+			"last",
+			"header",
+			"font-family",
+			"<strong>*</strong>",
+			"clear",
+			".grid_8",
+			"alert",
+			"p {",
+			"border-rad",
+			".last",
+			"docs",
+			"q",
+			"term",
+			"}",
+			"avatar",
+			": #",
+			"#",
+			"<!--",
+			"ObjectId",
+			"exclude",
+			"v"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/home/razor/Documents/dev/node-spdy-tools"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/razor/Documents/dev/node-spdy-tools/package.json",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/razor/Documents/dev/node-spdy-tools/lib/spdy-tools.js",
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/razor/Documents/dev/node-spdy/lib/spdy/frame.js",
+					"settings":
+					{
+						"buffer_size": 1886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 660,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 28
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			0.5,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+			[
+				"style",
+				"appengine/static/css/style.css"
+			],
+			[
+				"app",
+				"test/app.js"
+			],
+			[
+				"newevent",
+				"public/js/pages/newevent.js"
+			],
+			[
+				"persons",
+				"templates/persons.dust"
+			],
+			[
+				"event-1",
+				"templates/newevent-1.dust"
+			],
+			[
+				"event",
+				"views/api/event.js"
+			],
+			[
+				"dust",
+				"dust-helpers.js"
+			],
+			[
+				"root",
+				"views/root.js"
+			],
+			[
+				"events",
+				"views/events.js"
+			],
+			[
+				"basi",
+				"templates/layouts/basic.dust"
+			],
+			[
+				"basic",
+				"templates/layouts/basic.dust"
+			],
+			[
+				"index",
+				"views/index.js"
+			],
+			[
+				"urls",
+				"urls.js"
+			],
+			[
+				"person",
+				"public/js/pages/newperson.js"
+			],
+			[
+				"per",
+				"views/browse_persons.js"
+			],
+			[
+				"newper",
+				"templates/newperson.dust"
+			],
+			[
+				"newpers",
+				"public/js/pages/newperson.js"
+			],
+			[
+				"pers",
+				"views/api/person.js"
+			],
+			[
+				"ur",
+				"urls.js"
+			],
+			[
+				"models/ima",
+				"models/Image.js"
+			],
+			[
+				"newperson",
+				"public/js/pages/newperson.js"
+			],
+			[
+				"api",
+				"views/api/person.js"
+			],
+			[
+				"neweve",
+				"templates/newevent-1.dust"
+			],
+			[
+				"mode",
+				"models/Person.js"
+			],
+			[
+				"newperso",
+				"templates/newperson.dust"
+			],
+			[
+				"nun",
+				"templates/index.nun"
+			],
+			[
+				"whole",
+				"templates/layouts/whole-white.dust"
+			],
+			[
+				"index.nun",
+				"templates/index.nun"
+			],
+			[
+				"ex",
+				"express-nun.js"
+			],
+			[
+				"with-side",
+				"templates/with-sidebar.nun"
+			],
+			[
+				"withs",
+				"templates/layouts/with-sidebar.dust"
+			],
+			[
+				"index.",
+				"templates/index.dust"
+			],
+			[
+				"basic.nun",
+				"templates/layouts/basic.nun"
+			],
+			[
+				"new",
+				"templates/newevent-1.dust"
+			],
+			[
+				"newevent-1",
+				"templates/newevent-1.dust"
+			],
+			[
+				"newevent.js",
+				"public/js/pages/newevent.js"
+			],
+			[
+				"newevent.dus",
+				"templates/newevent.dust"
+			],
+			[
+				"templates/event",
+				"templates/events.dust"
+			],
+			[
+				"pages/neweve",
+				"public/js/pages/newevent.js"
+			],
+			[
+				"pages/event",
+				"public/js/pages/events.js"
+			],
+			[
+				"api/index",
+				"views/api/index.js"
+			],
+			[
+				"views",
+				"views/index.js"
+			],
+			[
+				"views/event",
+				"views/event.js"
+			],
+			[
+				"grid",
+				"public/css/grid.css"
+			],
+			[
+				"script",
+				"public/js/script.js"
+			],
+			[
+				"helpers",
+				"helpers.js"
+			],
+			[
+				"models/event",
+				"models/Event.js"
+			],
+			[
+				"newpost",
+				"templates/newpost.dust"
+			],
+			[
+				"with",
+				"templates/layouts/with-sidebar.dust"
+			],
+			[
+				"newevent.d",
+				"templates/newevent.dust"
+			],
+			[
+				"newe",
+				"templates/newevent.dust"
+			],
+			[
+				"grid.css",
+				"public/css/grid.css"
+			],
+			[
+				"models",
+				"models/Person.js"
+			],
+			[
+				"e",
+				"templates/events.dust"
+			],
+			[
+				"models/pers",
+				"models/Person.js"
+			],
+			[
+				"views/pers",
+				"views/person.js"
+			],
+			[
+				"pages/eve",
+				"public/js/pages/events.js"
+			],
+			[
+				"pages/",
+				"public/js/pages/newevent.js"
+			],
+			[
+				"post.",
+				"views/post.js"
+			],
+			[
+				"index.du",
+				"templates/index.dust"
+			],
+			[
+				"sty",
+				"public/css/style.css"
+			],
+			[
+				"models/pos",
+				"models/Post.js"
+			],
+			[
+				"views/person",
+				"views/person.js"
+			],
+			[
+				"views/",
+				"views/root.js"
+			],
+			[
+				".dust",
+				"templates/index.dust"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"post",
+				"apps/posts/models/Post.js"
+			]
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/razor/Documents/dev/dinetou/website/project.sublime-project"
+			]
+		],
+		"width": 380
+	},
+	"show_minimap": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228,
+	"status_bar_visible": true
+}

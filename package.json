@@ -1,0 +1,21 @@
+{
+	"name": "spdy-tools",
+	"description": "",
+	"version": "0.0.1",
+	"keywords": [],
+	"maintainers": [
+		{
+			"name": "Damianos Mylonakis",
+			"email": "danmylonakis@gmail.com",
+			"web": "http://www.github.com/razorg/node-spdy-tools"
+		}
+	],
+	"contributors": [],
+	"bugs": "",
+	"licences": [],
+	"repositories": [],
+	"dependencies": {
+		"zlib": "1.0.5",
+		"spdy": "0.0.1"
+	}
+}
